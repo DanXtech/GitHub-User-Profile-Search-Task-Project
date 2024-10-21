@@ -1,6 +1,6 @@
 # GitHub User Profile Search
 
-This project is a web application that allows users to search for GitHub profiles and view user information along with their repositories. It's built using Next.js, React, and TypeScript, with a beautiful UI powered by Tailwind CSS and shadcn/ui components.
+This project is a web application that allows users to search for GitHub profiles and view user information along with their repositories. It's built using Next.js and TypeScript, with a beautiful UI powered by Tailwind CSS and shadcn/ui components.
 
 ## Features
 
@@ -58,12 +58,5 @@ Key components:
 
 ## Deployment
 
-This project can be easily deployed to platforms like Vercel or Netlify. Simply connect your GitHub repository to your preferred hosting platform and follow their deployment instructions.
+This project can be easily deployed to Vercel Simply connected to my GitHub repository.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
